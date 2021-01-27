@@ -1,4 +1,4 @@
-# Java-study
+# Java-live-study
 📚백기선님의 Java study
 
 [github 바로가기](https://github.com/whiteship/live-study) / [youtube 바로가기](www.youtube.com/user/whiteship2000)
